@@ -54,9 +54,58 @@ Paso 4: Entra con tu Usuario y Contraseña, debería de aparecerte la presentaci
 
 <img width="775" height="693" alt="Captura de pantalla 2026-06-02 223547" src="https://github.com/user-attachments/assets/f830438b-1bb2-4fae-9638-1f5c00f5ca55" />
 
-Cuando estés logueado, hacemos lo primero que se hace en cualquier servidor nuevo: actualizar con el comando `sudo apt update`
+Cuando estés logueado, hacemos lo primero que se hace en cualquier servidor nuevo: actualizar con el comando `sudo apt update` Actualizará la lista de paquetes disponibles en los repositorios.
+Te pedirá tu contraseña otra vez, ponla. Verás cómo descarga listas de paquetes.
 
 <img width="805" height="296" alt="Captura de pantalla 2026-06-02 224008" src="https://github.com/user-attachments/assets/0d28ba7f-d7e6-4806-b3ab-862d299d05e0" />
+
+Cuando termine y vuelva al prompt $, ejecuta el segundo comando, 'sudo apt upgrade -y' Esto actualizará todos los paquetes instalados a sus versiones más recientes disponibles y la opción `-y` acepta automáticamente la confirmación.
+
+<img width="484" height="61" alt="Captura de pantalla 2026-06-02 224748" src="https://github.com/user-attachments/assets/90cb0eec-7f90-4efa-8fdc-7d0c375461d9" />
+
+<img width="1279" height="797" alt="Captura de pantalla 2026-06-02 224650" src="https://github.com/user-attachments/assets/d94aa656-34dd-4407-a309-95c792c40e2e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
