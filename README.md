@@ -65,7 +65,7 @@ Cuando termine y vuelva al prompt $ ejecuta el segundo comando, `sudo apt upgrad
 
 <img width="1279" height="797" alt="Captura de pantalla 2026-06-02 224650" src="https://github.com/user-attachments/assets/d94aa656-34dd-4407-a309-95c792c40e2e" />
 
-Ahora con el comando `sudo apt autoremove -y` Busca paquetes que se instalaron como dependencia de otra cosa y ya no los necesita nadie.
+Ahora con el comando `sudo apt autoremove -y` busca paquetes que se instalaron como dependencia de otra cosa y ya no los necesita nadie.
 
 <img width="1159" height="603" alt="Captura de pantalla 2026-06-02 225050" src="https://github.com/user-attachments/assets/6cfbb2cd-9fee-44c3-b983-1c06d8b8e003" />
 
