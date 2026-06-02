@@ -22,7 +22,7 @@ Tipo: Linux, Versión: Ubuntu Server (64-bit)
 
 <img width="1033" height="578" alt="Captura de pantalla 2026-06-02 212627" src="https://github.com/user-attachments/assets/f6579280-1235-4d90-b0ad-d905c4a2a25b" />
 
-RAM: 4096 MB - 2 CPUs
+RAM: 4096 MB + 2 CPUs
 
 <img width="1031" height="577" alt="Captura de pantalla 2026-06-02 212823" src="https://github.com/user-attachments/assets/15882882-b2c8-4a76-b42d-fad8ea84d7e8" />
 
