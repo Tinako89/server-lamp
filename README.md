@@ -46,7 +46,7 @@ Paso 2: instalar Ubuntu Server
 
 <img width="716" height="447" alt="Captura de pantalla 2026-06-02 222240" src="https://github.com/user-attachments/assets/7b127f69-3469-404e-88fd-5052e1991e9b" />
 
-Una vez instalado nos aparecerá la siguiente pantalla de Login, el usuario por defecto es "vboxuser" y contraseña "changeme" más adelante crearémos nuevos Usarios.
+Una vez instalado nos aparecerá la siguiente pantalla de Login, el usuario por defecto es "vboxuser" y contraseña "changeme" (sin las comillas) más adelante crearémos nuevos Usarios.
 
 <img width="563" height="278" alt="Captura de pantalla 2026-06-02 223117" src="https://github.com/user-attachments/assets/017fb1c8-ac90-40c1-80af-6abee885eba8" />
 
