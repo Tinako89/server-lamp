@@ -12,7 +12,7 @@
 
 Un servidor LAMP es un entorno de software para alojar aplicaciones y sitios web dinámicos. Está formado por Linux como sistema operativo, Apache como servidor web, MySQL como gestor de bases de datos y PHP como lenguaje de programación. La combinación de estas cuatro tecnologías permite desarrollar y ejecutar aplicaciones web de forma eficiente.
 
-Paso 1: Crear la Máquina Virtual en VirtualBox
+Paso 1: Crear la Máquina Virtual en VirtualBox.
 
 Nombre: lamp-ubuntu
 
@@ -34,7 +34,7 @@ Seleccionamos la ISO descargada de: https://ubuntu.com/download/server
 
 <img width="1032" height="580" alt="Captura de pantalla 2026-06-02 213331" src="https://github.com/user-attachments/assets/d66149d0-e468-449b-bc7a-68972ca5566a" />
 
-Red: Adaptador Puente
+Red: Adaptador Puente.
 
 <img width="859" height="493" alt="Captura de pantalla 2026-06-02 213507" src="https://github.com/user-attachments/assets/698a8f4f-a302-4e2c-99d4-051dc0bca711" />
 
@@ -42,11 +42,11 @@ Con todas las configuraciones listas ya podemos arrancar nuestra máquina Ubuntu
 
 <img width="995" height="778" alt="Captura de pantalla 2026-06-02 213752" src="https://github.com/user-attachments/assets/ea064989-5758-4f37-bee9-2bac5c355138" />
 
-Paso 2: instalar Ubuntu Server
+Paso 2: instalar Ubuntu Server.
 
 <img width="716" height="447" alt="Captura de pantalla 2026-06-02 222240" src="https://github.com/user-attachments/assets/7b127f69-3469-404e-88fd-5052e1991e9b" />
 
-Una vez instalado nos aparecerá la siguiente pantalla de Login, el usuario por defecto es "vboxuser" y contraseña "changeme" (sin las comillas) más adelante crearémos nuevos Usarios.
+Una vez instalado nos aparecerá la siguiente pantalla de Login, el Usuario por defecto es `vboxuser` y contraseña `changeme` más adelante crearémos nuevos Usuarios.
 
 <img width="563" height="278" alt="Captura de pantalla 2026-06-02 223117" src="https://github.com/user-attachments/assets/017fb1c8-ac90-40c1-80af-6abee885eba8" />
 
@@ -59,13 +59,13 @@ Te pedirá tu contraseña otra vez, ponla. Verás cómo descarga listas de paque
 
 <img width="805" height="296" alt="Captura de pantalla 2026-06-02 224008" src="https://github.com/user-attachments/assets/0d28ba7f-d7e6-4806-b3ab-862d299d05e0" />
 
-Cuando termine y vuelva al prompt $, ejecuta el segundo comando, 'sudo apt upgrade -y' Esto actualizará todos los paquetes instalados a sus versiones más recientes disponibles y la opción `-y` acepta automáticamente la confirmación.
+Cuando termine y vuelva al prompt $, ejecuta el segundo comando, `sudo apt upgrade -y` Esto actualizará todos los paquetes instalados a sus versiones más recientes disponibles y la opción `-y` acepta automáticamente la confirmación.
 
 <img width="484" height="61" alt="Captura de pantalla 2026-06-02 224748" src="https://github.com/user-attachments/assets/90cb0eec-7f90-4efa-8fdc-7d0c375461d9" />
 
 <img width="1279" height="797" alt="Captura de pantalla 2026-06-02 224650" src="https://github.com/user-attachments/assets/d94aa656-34dd-4407-a309-95c792c40e2e" />
 
-Ahora con el comando `sudo apt autoremove -y` Busca paquetes que se instalaron como dependencia de otra cosa y ya no los necesita nadie
+Ahora con el comando `sudo apt autoremove -y` Busca paquetes que se instalaron como dependencia de otra cosa y ya no los necesita nadie.
 
 <img width="1159" height="603" alt="Captura de pantalla 2026-06-02 225050" src="https://github.com/user-attachments/assets/6cfbb2cd-9fee-44c3-b983-1c06d8b8e003" />
 
@@ -73,7 +73,7 @@ Un extra opcional que yo suelo hacer después es con el comando `sudo apt autocl
 
 <img width="375" height="72" alt="Captura de pantalla 2026-06-02 225341" src="https://github.com/user-attachments/assets/e9d1cf12-2c00-424c-90fe-bcc11b0381d5" />
 
-Paso 5: Instalar Apache
+Paso 5: Instalar Apache.
 
 
 
