@@ -73,6 +73,10 @@ Un extra opcional que yo suelo hacer después `sudo apt autoclean` borra los ins
 
 <img width="375" height="72" alt="Captura de pantalla 2026-06-02 225341" src="https://github.com/user-attachments/assets/e9d1cf12-2c00-424c-90fe-bcc11b0381d5" />
 
+Paso 5: Instalar Apache
+
+
+
 
 
 
