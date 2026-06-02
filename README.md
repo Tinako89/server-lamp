@@ -30,7 +30,7 @@ Disco: Crear VDI, dinámico, 25 GB
 
 <img width="1032" height="585" alt="Captura de pantalla 2026-06-02 213000" src="https://github.com/user-attachments/assets/1932373a-92f0-4303-8d6f-a0bfdd7bd7a8" />
 
-Seleccionamos la ISO descargada de: https://ubuntu.com/download/server
+Seleccionamos la imágen .ISO descargada de: https://ubuntu.com/download/server
 
 <img width="1032" height="580" alt="Captura de pantalla 2026-06-02 213331" src="https://github.com/user-attachments/assets/d66149d0-e468-449b-bc7a-68972ca5566a" />
 
