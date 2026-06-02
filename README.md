@@ -15,10 +15,27 @@ Un servidor LAMP es un entorno de software para alojar aplicaciones y sitios web
 Paso 1: Crear la Máquina Virtual en VirtualBox
 
 Nombre: lamp-ubuntu
+
+<img width="1032" height="580" alt="Captura de pantalla 2026-06-02 212458" src="https://github.com/user-attachments/assets/d06402aa-9147-4bc8-8f12-0e7ab3eb0254" />
+
 Tipo: Linux, Versión: Ubuntu Server (64-bit)
-RAM: 4096 MB
-CPUs: 2
+
+<img width="1033" height="578" alt="Captura de pantalla 2026-06-02 212627" src="https://github.com/user-attachments/assets/f6579280-1235-4d90-b0ad-d905c4a2a25b" />
+
+RAM: 4096 MB - 2 CPUs
+
+<img width="1031" height="577" alt="Captura de pantalla 2026-06-02 212823" src="https://github.com/user-attachments/assets/15882882-b2c8-4a76-b42d-fad8ea84d7e8" />
+
 Disco: Crear VDI, dinámico, 25 GB
+
+<img width="1032" height="585" alt="Captura de pantalla 2026-06-02 213000" src="https://github.com/user-attachments/assets/1932373a-92f0-4303-8d6f-a0bfdd7bd7a8" />
+
+Seleccionamos la ISO descargad de: https://ubuntu.com/download/server
+
+<img width="1032" height="580" alt="Captura de pantalla 2026-06-02 213331" src="https://github.com/user-attachments/assets/d66149d0-e468-449b-bc7a-68972ca5566a" />
+
 Red: Adaptador Puente
+
+<img width="859" height="493" alt="Captura de pantalla 2026-06-02 213507" src="https://github.com/user-attachments/assets/698a8f4f-a302-4e2c-99d4-051dc0bca711" />
 
 En creación...
