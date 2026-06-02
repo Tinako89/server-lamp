@@ -50,7 +50,7 @@ Una vez instalado nos aparecerá la siguiente pantalla de Login, el usuario por 
 
 <img width="563" height="278" alt="Captura de pantalla 2026-06-02 223117" src="https://github.com/user-attachments/assets/017fb1c8-ac90-40c1-80af-6abee885eba8" />
 
-Paso 4: Entra con tu Usuario y Contraseña, debería de aparecerte la presentación de Ubuntu.
+Paso 3: Entra con tu Usuario y Contraseña, debería de aparecerte la presentación de Ubuntu.
 
 <img width="775" height="693" alt="Captura de pantalla 2026-06-02 223547" src="https://github.com/user-attachments/assets/f830438b-1bb2-4fae-9638-1f5c00f5ca55" />
 
