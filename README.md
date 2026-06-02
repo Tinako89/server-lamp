@@ -46,11 +46,11 @@ Paso 2: instalar Ubuntu Server.
 
 <img width="716" height="447" alt="Captura de pantalla 2026-06-02 222240" src="https://github.com/user-attachments/assets/7b127f69-3469-404e-88fd-5052e1991e9b" />
 
-Una vez instalado nos aparecerá la siguiente pantalla de Login, el Usuario por defecto es `vboxuser` y contraseña `changeme` más adelante crearémos nuevos Usuarios.
+Una vez instalado nos aparecerá la siguiente pantalla de Login, el Usuario por defecto es `vboxuser` y contraseña `changeme` más adelante crearemos nuevos Usuarios.
 
 <img width="563" height="278" alt="Captura de pantalla 2026-06-02 223117" src="https://github.com/user-attachments/assets/017fb1c8-ac90-40c1-80af-6abee885eba8" />
 
-Paso 3: Entra con tu Usuario y Contraseña, debería de aparecerte la presentación de Ubuntu.
+Paso 3: Entra con tu Usuario y Contraseña, debería de aparecer la presentación de Ubuntu.
 
 <img width="775" height="693" alt="Captura de pantalla 2026-06-02 223547" src="https://github.com/user-attachments/assets/f830438b-1bb2-4fae-9638-1f5c00f5ca55" />
 
@@ -59,7 +59,7 @@ Te pedirá tu contraseña otra vez, ponla. Verás cómo descarga listas de paque
 
 <img width="805" height="296" alt="Captura de pantalla 2026-06-02 224008" src="https://github.com/user-attachments/assets/0d28ba7f-d7e6-4806-b3ab-862d299d05e0" />
 
-Cuando termine y vuelva al prompt $, ejecuta el segundo comando, `sudo apt upgrade -y` Esto actualizará todos los paquetes instalados a sus versiones más recientes disponibles y la opción `-y` acepta automáticamente la confirmación.
+Cuando termine y vuelva al prompt $ ejecuta el segundo comando, `sudo apt upgrade -y` Esto actualizará todos los paquetes instalados a sus versiones más recientes disponibles y la opción `-y` acepta automáticamente la confirmación.
 
 <img width="484" height="61" alt="Captura de pantalla 2026-06-02 224748" src="https://github.com/user-attachments/assets/90cb0eec-7f90-4efa-8fdc-7d0c375461d9" />
 
