@@ -69,7 +69,10 @@ Ahora con el comando `sudo apt autoremove -y` Busca paquetes que se instalaron c
 
 <img width="1159" height="603" alt="Captura de pantalla 2026-06-02 225050" src="https://github.com/user-attachments/assets/6cfbb2cd-9fee-44c3-b983-1c06d8b8e003" />
 
-Un extra opcional que yo suelo hacer después `sudo apt autoclean` 
+Un extra opcional que yo suelo hacer después `sudo apt autoclean` borra los instaladores descargados que ya no sirven, libera unos megas en el disco virtual.
+
+<img width="375" height="72" alt="Captura de pantalla 2026-06-02 225341" src="https://github.com/user-attachments/assets/e9d1cf12-2c00-424c-90fe-bcc11b0381d5" />
+
 
 
 
