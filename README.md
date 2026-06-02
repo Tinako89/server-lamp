@@ -15,10 +15,10 @@ Un servidor LAMP es un entorno de software para alojar aplicaciones y sitios web
 Paso 1: Crear la Máquina Virtual en VirtualBox
 
 Nombre: lamp-ubuntu
-Tipo: Linux, Versión: Ubuntu (64-bit)
-RAM: 4096 MB (mínimo 2048)
+Tipo: Linux, Versión: Ubuntu Server (64-bit)
+RAM: 4096 MB
 CPUs: 2
 Disco: Crear VDI, dinámico, 25 GB
-Red: en Configuración > Red, pon Adaptador 1 en "Adaptador puente". Así la VM coge IP de tu router y la ves como otro PC. Si no puedes usar puente, deja NAT y luego hacemos un reenvío de puertos.
+Red: Adaptador Puente
 
 En creación...
