@@ -41,3 +41,5 @@ Red: Adaptador Puente
 Con todas las configuraciones listas ya podemos arrancar nuestra máquina Ubuntu Server.
 
 <img width="995" height="778" alt="Captura de pantalla 2026-06-02 213752" src="https://github.com/user-attachments/assets/ea064989-5758-4f37-bee9-2bac5c355138" />
+
+Paso 2: instala Ubuntu Server
