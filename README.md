@@ -38,7 +38,7 @@ Red: Adaptador Puente.
 
 <img width="859" height="493" alt="Captura de pantalla 2026-06-02 213507" src="https://github.com/user-attachments/assets/698a8f4f-a302-4e2c-99d4-051dc0bca711" />
 
-Con todas las configuraciones listas ya podemos arrancar nuestra máquina Ubuntu Server.
+Con todas las configuraciones listas ya podemos iniciar nuestra máquina Ubuntu Server.
 
 <img width="995" height="778" alt="Captura de pantalla 2026-06-02 213752" src="https://github.com/user-attachments/assets/ea064989-5758-4f37-bee9-2bac5c355138" />
 
