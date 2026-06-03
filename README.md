@@ -91,9 +91,19 @@ Todavía en la VM: `ip a`
 
 <img width="911" height="308" alt="Captura de pantalla 2026-06-03 112757" src="https://github.com/user-attachments/assets/0a297a9b-be28-4c4b-ad94-9a9d911b529f" />
 
-Puedes abrir Apache desde tu Windows sin tocar nada más. Prueba ahora en tu navegador de Windows.
+Prueba ahora en tu navegador de Windows.
 
 <img width="295" height="43" alt="Captura de pantalla 2026-06-03 113118" src="https://github.com/user-attachments/assets/8b71c8ca-1229-43e3-9d06-1ea31229e7e4" />
+
+El cuadro naranja "It works!" significa: Apache está instalado, arrancado y escuchando en el puerto 80 de tu VM (en esa IP 192.168.1.135).
+
+El texto de abajo explica que esa página vive en /var/www/html/index.html. Es el sitio por defecto.
+
+La parte de Configuration Overview te muestra dónde guarda Ubuntu la configuración:
+
+    /etc/apache2/apache2.conf → archivo principal
+    ports.conf → dice en qué puerto escucha
+    sites-enabled/ → aquí pondremos luego nuestros sitios
 
 <img width="1919" height="908" alt="Captura de pantalla 2026-06-03 113158" src="https://github.com/user-attachments/assets/f2e5246c-ded5-4b33-9b97-fc4acbdf7825" />
 
