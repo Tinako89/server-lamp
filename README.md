@@ -105,7 +105,8 @@ La parte de Configuration Overview te muestra dónde guarda Ubuntu la configurac
     ports.conf → dice en qué puerto escucha
     sites-enabled/ → aquí pondremos luego nuestros sitios
 
-<img width="1919" height="908" alt="Captura de pantalla 2026-06-03 113158" src="https://github.com/user-attachments/assets/f2e5246c-ded5-4b33-9b97-fc4acbdf7825" />
+<img width="1919" height="908" alt="602106598-f2e5246c-ded5-4b33-9b97-fc4acbdf7825" src="https://github.com/user-attachments/assets/c2a86279-a5f9-4d19-a8ca-e959d403ea14" />
+
 
 Paso 6: Instalar MariaDB `sudo apt install -y mariadb-server`
 
