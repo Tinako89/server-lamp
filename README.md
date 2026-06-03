@@ -131,7 +131,7 @@ En Ubuntu 26.04 te instalará PHP 8.3. Verás bastante texto bajando. Cuando vue
 
 Comprueba la versión.
 
-<img width="1273" height="464" alt="Captura de pantalla 2026-06-03 213830" src="https://github.com/user-attachments/assets/3df2f8d7-415f-4dbf-a1a1-9ab4618c7145" />
+<img width="620" height="214" alt="Captura de pantalla 2026-06-03 213938" src="https://github.com/user-attachments/assets/fa21566b-e3cf-4bf9-a5c8-58de1d66b607" />
 
 Paso 7.1: Prueba rápida.
 
