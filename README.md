@@ -85,7 +85,7 @@ Ahora con el comando `curl` prueba desde dentro de la VM: `curl http://localhost
 
 <img width="1108" height="624" alt="Captura de pantalla 2026-06-03 112509" src="https://github.com/user-attachments/assets/f877defa-f224-4b07-b0df-e9e2cc4e04f9" />
 
-Paso 5.1 — mira tu IP privada para luego entrar desde Windows.
+Paso 5.1: mira tu IP privada para luego entrar desde Windows.
 
 Todavía en la VM: `ip a`
 
@@ -107,8 +107,30 @@ La parte de Configuration Overview te muestra dónde guarda Ubuntu la configurac
 
 <img width="801" height="908" alt="602106598-f2e5246c-ded5-4b33-9b97-fc4acbdf7825" src="https://github.com/user-attachments/assets/880f719b-6869-42c2-a3a0-975d46e2adda" />
 
+Paso 6: Instalar MariaDB `sudo apt install -y mariadb-server` y comprobamos el estado, tienes que ver active (running) en verde `systemctl status mariadb` Pulsa q para salir.
 
-Paso 6: Instalar MariaDB `sudo apt install -y mariadb-server`
+<img width="1279" height="502" alt="Captura de pantalla 2026-06-03 173259" src="https://github.com/user-attachments/assets/d1dd5f20-b25c-409d-bc3f-0157fa75a6db" />
+
+Paso 6.1: Prueba que entra `sudo mysql -u root -p` en este ejemplo entraremos con el usuario y root y contraseña vacia.
+
+<img width="947" height="275" alt="Captura de pantalla 2026-06-03 173753" src="https://github.com/user-attachments/assets/a0a8ca0e-f437-492c-9317-01480332afc7" />
+
+Para salir de MariaDB escribe `exit`
+
+<img width="278" height="70" alt="Captura de pantalla 2026-06-03 173913" src="https://github.com/user-attachments/assets/ccd4bc2b-afe8-477c-9e89-9ce4e0aa1226" />
+
+Paso 7: instalar PHP y conectarlo a Apache.
+
+En Ubuntu 26.04 te instalará PHP 8.3. `sudo apt install -y php libapache2-mod-php php-mysql php-cli php-curl php-xml php-mbstring php-zip php-gd` Verás bastante texto bajando. Cuando vuelva al $, reinicia Apache.
+
+
+
+
+
+
+
+
+
 
 
 
