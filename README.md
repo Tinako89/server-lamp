@@ -107,6 +107,8 @@ La parte de Configuration Overview te muestra dónde guarda Ubuntu la configurac
 
 <img width="1919" height="908" alt="Captura de pantalla 2026-06-03 113158" src="https://github.com/user-attachments/assets/f2e5246c-ded5-4b33-9b97-fc4acbdf7825" />
 
+Paso 6: Instalar MariaDB `sudo apt install -y mariadb-server`
+
 
 
 
