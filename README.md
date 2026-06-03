@@ -81,7 +81,10 @@ Comprueba que está corriendo: `systemctl status apache2` Deberías ver una lín
 
 <img width="1283" height="405" alt="Captura de pantalla 2026-06-03 111507" src="https://github.com/user-attachments/assets/cea84184-5662-4595-aa37-af1f59e5cf74" />
 
-Ahora con el comando `curl` prueba desde dentro de la VM: `curl http://localhost`
+Ahora con el comando `curl` prueba desde dentro de la VM: `curl http://localhost` Te va a devolver un montón de HTML que empieza por <!DOCTYPE html> y en medio pone “Apache2 Ubuntu Default Page”. Eso significa que el servidor web ya funciona.
+
+<img width="1108" height="624" alt="Captura de pantalla 2026-06-03 112509" src="https://github.com/user-attachments/assets/305ebb83-9d2b-4c65-8d40-609ee40e2458" />
+
 
 
 
