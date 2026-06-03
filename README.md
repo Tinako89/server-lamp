@@ -119,7 +119,7 @@ Para salir de MariaDB escribe `exit`
 
 <img width="278" height="70" alt="Captura de pantalla 2026-06-03 173913" src="https://github.com/user-attachments/assets/ccd4bc2b-afe8-477c-9e89-9ce4e0aa1226" />
 
-Paso 7: instalar PHP y conectarlo a Apache.
+Paso 7: Instalar PHP y conectarlo a Apache.
 
 En Ubuntu 26.04 te instalará PHP 8.3. `sudo apt install -y php libapache2-mod-php php-mysql php-cli php-curl php-xml php-mbstring php-zip php-gd` Verás bastante texto bajando. Cuando vuelva al $, reinicia Apache.
 
