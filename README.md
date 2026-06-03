@@ -91,6 +91,16 @@ Todavía en la VM: `ip a`
 
 <img width="911" height="308" alt="Captura de pantalla 2026-06-03 112757" src="https://github.com/user-attachments/assets/0a297a9b-be28-4c4b-ad94-9a9d911b529f" />
 
+Puedes abrir Apache desde tu Windows sin tocar nada más. Prueba ahora en tu navegador de Windows.
+
+<img width="295" height="43" alt="Captura de pantalla 2026-06-03 113118" src="https://github.com/user-attachments/assets/8b71c8ca-1229-43e3-9d06-1ea31229e7e4" />
+
+<img width="1919" height="908" alt="Captura de pantalla 2026-06-03 113158" src="https://github.com/user-attachments/assets/f2e5246c-ded5-4b33-9b97-fc4acbdf7825" />
+
+
+
+
+
 
 
 
