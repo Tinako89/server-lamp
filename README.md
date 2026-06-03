@@ -123,6 +123,19 @@ Paso 7: Instalar PHP y conectarlo a Apache.
 
 En Ubuntu 26.04 te instalará PHP 8.3. `sudo apt install -y php libapache2-mod-php php-mysql php-cli php-curl php-xml php-mbstring php-zip php-gd` Verás bastante texto bajando. Cuando vuelva al $, reinicia Apache.
 
+<img width="1113" height="627" alt="Captura de pantalla 2026-06-03 213642" src="https://github.com/user-attachments/assets/0241768f-d5aa-45cd-9a9a-2b2b32dbd37f" />
+
+En Ubuntu 26.04 te instalará PHP 8.3. Verás bastante texto bajando. Cuando vuelva al $, reinicia Apache.
+
+<img width="1273" height="464" alt="Captura de pantalla 2026-06-03 213830" src="https://github.com/user-attachments/assets/16b77108-b6c3-4af7-a1fb-cc6f4c86bc57" />
+
+Comprueba la versión.
+
+<img width="1273" height="464" alt="Captura de pantalla 2026-06-03 213830" src="https://github.com/user-attachments/assets/3df2f8d7-415f-4dbf-a1a1-9ab4618c7145" />
+
+Paso 7.1: Prueba rápida.
+
+
 
 
 
