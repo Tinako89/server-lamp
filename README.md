@@ -146,7 +146,7 @@ Tienes que ver una tabla grande morada con toda la información de PHP, y en la 
 
 <img width="939" height="900" alt="Captura de pantalla 2026-06-03 214933" src="https://github.com/user-attachments/assets/3ce2a140-c6cf-4841-b335-8c3529205819" />
 
-Cuando lo hayas visto, bórrala con el siguiente comando: `sudo rm /var/www/html/info.php`
+Cuando la hayas visto, bórrala con el siguiente comando: `sudo rm /var/www/html/info.php`
 
 Felicidades, acabas de montar tu primer LAMP. Tienes Linux, Apache, MariaDB y PHP funcionando juntos.
 
