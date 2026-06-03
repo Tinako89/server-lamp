@@ -38,11 +38,11 @@ Red: Adaptador Puente.
 
 <img width="859" height="493" alt="Captura de pantalla 2026-06-02 213507" src="https://github.com/user-attachments/assets/698a8f4f-a302-4e2c-99d4-051dc0bca711" />
 
-Con todas las configuraciones listas ya podemos iniciar nuestra máquina Ubuntu Server.
+Con todas las configuraciones listas ya podemos iniciar nuestra máquina Ubuntu.
 
 <img width="995" height="778" alt="Captura de pantalla 2026-06-02 213752" src="https://github.com/user-attachments/assets/ea064989-5758-4f37-bee9-2bac5c355138" />
 
-Paso 2: instalar Ubuntu Server.
+Paso 2: instalar Ubuntu.
 
 <img width="716" height="447" alt="Captura de pantalla 2026-06-02 222240" src="https://github.com/user-attachments/assets/7b127f69-3469-404e-88fd-5052e1991e9b" />
 
