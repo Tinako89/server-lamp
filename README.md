@@ -18,7 +18,7 @@ Nombre: lamp-ubuntu
 
 <img width="1032" height="580" alt="Captura de pantalla 2026-06-02 212458" src="https://github.com/user-attachments/assets/d06402aa-9147-4bc8-8f12-0e7ab3eb0254" />
 
-Tipo: Linux, Versión: Ubuntu Server (64-bit)
+Tipo: Linux, Versión: Ubuntu (64-bit)
 
 <img width="1033" height="578" alt="Captura de pantalla 2026-06-02 212627" src="https://github.com/user-attachments/assets/f6579280-1235-4d90-b0ad-d905c4a2a25b" />
 
