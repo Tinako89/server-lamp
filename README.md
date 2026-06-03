@@ -73,7 +73,21 @@ Un extra opcional que yo suelo hacer después es con el comando `sudo apt autocl
 
 <img width="375" height="72" alt="Captura de pantalla 2026-06-02 225341" src="https://github.com/user-attachments/assets/e9d1cf12-2c00-424c-90fe-bcc11b0381d5" />
 
-Paso 5: Instalar Apache.
+Paso 5: Instalar Apache: `sudo apt install -y apache2` Verás cómo descarga unos 10-15 paquetes. Es normal que tarde un minuto.
+
+<img width="1121" height="715" alt="Captura de pantalla 2026-06-03 111134" src="https://github.com/user-attachments/assets/a9c82300-2d3c-4752-a6d1-ff2c256ed911" />
+
+Comprueba que está corriendo: `systemctl status apache2` Deberías ver una línea verde que dice active (running). Pulsa la tecla q para salir de esa vista.
+
+<img width="1283" height="405" alt="Captura de pantalla 2026-06-03 111507" src="https://github.com/user-attachments/assets/cea84184-5662-4595-aa37-af1f59e5cf74" />
+
+Ahora con el comando `curl` prueba desde dentro de la VM: `curl http://localhost`
+
+
+
+
+
+
 
 
 
