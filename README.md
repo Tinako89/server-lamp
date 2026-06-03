@@ -133,7 +133,8 @@ Comprueba la versión.
 
 <img width="620" height="214" alt="Captura de pantalla 2026-06-03 213938" src="https://github.com/user-attachments/assets/fa21566b-e3cf-4bf9-a5c8-58de1d66b607" />
 
-Paso 7.1: Prueba rápida, Vamos a crear una página de prueba (luego será eliminada): `echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/info.php` Crea como administrador el archivo /var/www/html/info.php con el texto <?php phpinfo(); ?> dentro para que Apache lo ejecute.
+Paso 7.1: Prueba rápida, Vamos a crear una página de prueba (luego será eliminada): `echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/info.php` 
+Explicación del comando: Crea como administrador el archivo /var/www/html/info.php con el texto <?php phpinfo(); ?> dentro para que Apache lo ejecute.
 
 <img width="816" height="158" alt="Captura de pantalla 2026-06-03 214453" src="https://github.com/user-attachments/assets/af876bc7-897d-4cda-89b0-67f7524406ab" />
 
