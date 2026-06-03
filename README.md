@@ -133,7 +133,9 @@ Comprueba la versión.
 
 <img width="620" height="214" alt="Captura de pantalla 2026-06-03 213938" src="https://github.com/user-attachments/assets/fa21566b-e3cf-4bf9-a5c8-58de1d66b607" />
 
-Paso 7.1: Prueba rápida.
+Paso 7.1: Prueba rápida, Vamos a crear una página de prueba (luego será eliminada): `echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/info.php`
+
+
 
 
 
