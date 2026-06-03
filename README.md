@@ -111,7 +111,7 @@ Paso 6: Instalar MariaDB `sudo apt install -y mariadb-server` y comprobamos el e
 
 <img width="1279" height="502" alt="Captura de pantalla 2026-06-03 173259" src="https://github.com/user-attachments/assets/d1dd5f20-b25c-409d-bc3f-0157fa75a6db" />
 
-Paso 6.1: Prueba que entra `sudo mysql -u root -p` en este ejemplo entraremos con el usuario y root y contraseña vacia.
+Paso 6.1: Prueba que entra `sudo mysql -u root -p` en este ejemplo entraremos con el Usuario root y contraseña vacia.
 
 <img width="947" height="275" alt="Captura de pantalla 2026-06-03 173753" src="https://github.com/user-attachments/assets/a0a8ca0e-f437-492c-9317-01480332afc7" />
 
