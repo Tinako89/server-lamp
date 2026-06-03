@@ -137,6 +137,26 @@ Paso 7.1: Prueba rápida, Vamos a crear una página de prueba (luego será elimi
 
 <img width="816" height="158" alt="Captura de pantalla 2026-06-03 214453" src="https://github.com/user-attachments/assets/af876bc7-897d-4cda-89b0-67f7524406ab" />
 
+En nuestro navegador de Windows introducimos la siguiente URL. `http://192.168.1.135/info.php` 
+
+<img width="325" height="48" alt="Captura de pantalla 2026-06-03 214830" src="https://github.com/user-attachments/assets/0f0bd3e7-5404-4de8-96f5-7809be661eb2" />
+
+Tienes que ver una tabla grande morada con toda la información de PHP, y en la parte de arriba pondrá la versión. Si la ves, Apache está ejecutando PHP y ya puede hablar con MariaDB (el módulo php-mysql ya está).
+
+<img width="939" height="900" alt="Captura de pantalla 2026-06-03 214933" src="https://github.com/user-attachments/assets/3ce2a140-c6cf-4841-b335-8c3529205819" />
+
+Cuando la hayas visto, bórrala con el siguiente comando: `sudo rm /var/www/html/info.php`
+
+Felicidades, acabas de montar tu primer LAMP. Tienes Linux, Apache, MariaDB y PHP funcionando juntos.
+
+<img width="478" height="121" alt="Captura de pantalla 2026-06-03 215249" src="https://github.com/user-attachments/assets/f0a0dca6-f4f1-418e-a518-6f1d2c874868" />
+
+Paso 8: Crea la base de datos.
+
+
+
+
+
 
 
 
