@@ -181,6 +181,33 @@ echo "<p>Conectado a MariaDB correctamente desde PHP " . phpversion() . "</p>";
 
 <img width="1116" height="618" alt="Captura de pantalla 2026-06-04 203151" src="https://github.com/user-attachments/assets/c87cdef1-9820-42b7-bb6f-e11f6ff7457e" />
 
+Mira qué hay en la carpeta web `ls -l /var/www/html` 
+
+<img width="455" height="105" alt="Captura de pantalla 2026-06-04 203704" src="https://github.com/user-attachments/assets/01704a2d-efbd-48d4-ae77-cd5bc2142143" />
+
+Borramos index.html `sudo rm /var/www/html/index.html`
+
+<img width="479" height="54" alt="Captura de pantalla 2026-06-04 203906" src="https://github.com/user-attachments/assets/61792722-b902-4826-a300-685447533d66" />
+
+Recargamos Apache `sudo systemctl reload apache2`
+
+<img width="517" height="50" alt="Captura de pantalla 2026-06-04 204041" src="https://github.com/user-attachments/assets/9f6e4a27-adf6-49bb-b01a-f616c58faf2b" />
+
+Volvemos a nuestro navegador web.
+
+<img width="261" height="43" alt="Captura de pantalla 2026-06-04 204117" src="https://github.com/user-attachments/assets/39ed6c12-42a0-434e-9b54-507e47bc972c" />
+
+Ya no deberías ver la página naranja de "Apache2 Default Page", sino un texto blanco que dice "¡LAMP funciona!".
+
+<img width="501" height="251" alt="Captura de pantalla 2026-06-04 204228" src="https://github.com/user-attachments/assets/4ea32f1f-484e-4048-8f04-f1eddb80e46b" />
+
+
+
+
+
+
+
+
 
 
 
