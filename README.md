@@ -170,6 +170,15 @@ Paso 8.1: crea tu primera página `sudo nano /var/www/html/index.php`
 
 Se abre el editor. Borra lo que haya y pega esto:
 
+`<?php
+$conexion = new mysqli("localhost", "miwebuser", "MiClave2026!", "miweb");
+if ($conexion->connect_error) {
+    die("Error: " . $conexion->connect_error);
+}
+echo "<h1>¡LAMP funciona!</h1>";
+echo "<p>Conectado a MariaDB correctamente desde PHP " . phpversion() . "</p>";
+?>`
+
 
 
 
