@@ -197,7 +197,7 @@ Volvemos a nuestro navegador web.
 
 <img width="261" height="43" alt="Captura de pantalla 2026-06-04 204117" src="https://github.com/user-attachments/assets/39ed6c12-42a0-434e-9b54-507e47bc972c" />
 
-Ya no deberías ver la página naranja de "Apache2 Default Page", sino un texto blanco que dice "¡LAMP funciona!".
+Ya no deberías ver la página naranja de "Apache2 Default Page", sino un texto blanco que dice "¡LAMP funciona!". Ya hemos sustituido la página por defecto por la tuya.
 
 <img width="501" height="251" alt="Captura de pantalla 2026-06-04 204228" src="https://github.com/user-attachments/assets/4ea32f1f-484e-4048-8f04-f1eddb80e46b" />
 
