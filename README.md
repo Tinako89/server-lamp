@@ -179,6 +179,7 @@ echo "<h1>¡LAMP funciona!</h1>";
 echo "<p>Conectado a MariaDB correctamente desde PHP " . phpversion() . "</p>";
 ?>`
 
+<img width="1116" height="618" alt="Captura de pantalla 2026-06-04 203151" src="https://github.com/user-attachments/assets/c87cdef1-9820-42b7-bb6f-e11f6ff7457e" />
 
 
 
