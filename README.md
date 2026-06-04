@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Apache%20httpd-2.4-d22128" alt="apache">
   <img src="https://img.shields.io/badge/MariaDB-10.11%7C11.4%7C11.8-003545" alt="mariadb">
   <img src="https://img.shields.io/badge/PHP-7.4~8.5-777bb4" alt="php">
-  <img src="https://img.shields.io/badge/license-Apache-2.0 license-0057b8" alt="license">
+  <img src="https://img.shields.io/badge/license-Apache-2.0 license0057b8" alt="license">
 </p>
 
 <h1 align="center">SERVIDOR LAMP: LINUX + APACHE + MYSQL + PHP</h1>
