@@ -71,7 +71,7 @@ Ahora con el comando `sudo apt autoremove -y` busca paquetes que se instalaron c
 
 Un extra opcional que yo suelo hacer después es con el comando `sudo apt autoclean` borra los instaladores descargados que ya no sirven, libera unos megas en el disco virtual.
 
-<img width="375" height="72" alt="Captura de pantalla 2026-06-02 225341" src="https://github.com/user-attachments/assets/e9d1cf12-2c00-424c-90fe-bcc11b0381d5" />
+<img width="375" height="72" alt="601818186-e9d1cf12-2c00-424c-90fe-bcc11b0381d5" src="https://github.com/user-attachments/assets/c5555619-782f-4fa5-9619-df20d275f51a" />
 
 Paso 5: Instalar Apache: `sudo apt install -y apache2` Verás cómo descarga unos 10-15 paquetes. Es normal que tarde un minuto.
 
