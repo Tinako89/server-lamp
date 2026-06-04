@@ -152,7 +152,26 @@ Felicidades, acabas de montar tu primer LAMP. Tienes Linux, Apache, MariaDB y PH
 
 <img width="478" height="121" alt="Captura de pantalla 2026-06-03 215249" src="https://github.com/user-attachments/assets/f0a0dca6-f4f1-418e-a518-6f1d2c874868" />
 
-Paso 8: Crea la base de datos.
+Paso 8: Crea la base de datos. Entramos a MariaDB `sudo mysql -u root -p` Usuario root y contraseña.
+
+Dentro, pega esto línea por línea (puedes copiar todo el bloque):
+
+`CREATE DATABASE miweb;
+CREATE USER 'miwebuser'@'localhost' IDENTIFIED BY 'MiClave2026!';
+GRANT ALL PRIVILEGES ON miweb.* TO 'miwebuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;`
+
+<img width="927" height="591" alt="Captura de pantalla 2026-06-04 202500" src="https://github.com/user-attachments/assets/0488f795-d3f7-4178-8c6f-64b6fa835a80" />
+
+Con esto tienes una base vacía llamada miweb y un usuario para usarla.
+
+Paso 8.1: crea tu primera página `sudo nano /var/www/html/index.php` 
+
+
+
+
+
 
 
 
