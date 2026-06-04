@@ -42,7 +42,7 @@ Con todas las configuraciones listas ya podemos iniciar nuestra máquina Ubuntu.
 
 <img width="995" height="778" alt="Captura de pantalla 2026-06-02 213752" src="https://github.com/user-attachments/assets/ea064989-5758-4f37-bee9-2bac5c355138" />
 
-Paso 2: instalar Ubuntu.
+Paso 2: instalar Ubuntu Server.
 
 <img width="716" height="447" alt="Captura de pantalla 2026-06-02 222240" src="https://github.com/user-attachments/assets/7b127f69-3469-404e-88fd-5052e1991e9b" />
 
