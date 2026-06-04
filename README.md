@@ -168,10 +168,7 @@ Con esto tienes una base vacía llamada miweb y un usuario para usarla.
 
 Paso 8.1: crea tu primera página `sudo nano /var/www/html/index.php` 
 
-
-
-
-
+Se abre el editor. Borra lo que haya y pega esto:
 
 
 
