@@ -1,26 +1,19 @@
 version: '3.8'
 
 services:
-  # Servidor Web Apache + PHP 8.1
   web:
-    image: php:8.1-apache
+    build: .
     container_name: lamp_web
     restart: unless-stopped
     ports:
       - "8080:80"
     volumes:
-      # Tu código web
       - ./www:/var/www/html
-      # Tu configuración de Apache (de /etc/apache2)
-      - ./apache2:/etc/apache2
-      # Tu php.ini (de /etc/php/8.1)
-      - ./php:/usr/local/etc/php
     depends_on:
       - db
     networks:
       - lamp-net
 
-  # Base de datos MariaDB
   db:
     image: mariadb:10.11
     container_name: lamp_db
@@ -33,9 +26,6 @@ services:
     ports:
       - "3306:3306"
     volumes:
-      # Tu configuración de MariaDB (de /etc/mysql)
-      - ./mariadb:/etc/mysql/conf.d
-      # Datos persistentes (se crean aquí, no se suben a Git)
       - db_data:/var/lib/mysql
     networks:
       - lamp-net
