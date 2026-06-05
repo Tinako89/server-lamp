@@ -162,7 +162,7 @@ EXIT;`
 
 <img width="927" height="591" alt="603023945-0488f795-d3f7-4178-8c6f-64b6fa835a80" src="https://github.com/user-attachments/assets/bd744f54-085f-494d-8f71-8639369eb874" />
 
-Con esto tienes una base vacía llamada miweb y un usuario para usarla.
+Con esto tienes una base vacía llamada miweb y un Usuario para usarla.
 
 Paso 8.1: crea tu primera página `sudo nano /var/www/html/index.php` 
 
