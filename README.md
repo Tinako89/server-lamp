@@ -83,7 +83,7 @@ Comprueba que está corriendo: `systemctl status apache2` Deberías ver una lín
 
 Ahora con el comando `curl` prueba desde dentro de la VM: `curl http://localhost` Te va a devolver un montón de HTML que empieza por <!DOCTYPE html> y en medio pone “Apache2 Ubuntu Default Page”. Eso significa que el servidor web ya funciona.
 
-<img width="1108" height="624" alt="Captura de pantalla 2026-06-03 112509" src="https://github.com/user-attachments/assets/f877defa-f224-4b07-b0df-e9e2cc4e04f9" />
+<img width="1159" height="606" alt="601817130-6cfbb2cd-9fee-44c3-b983-1c06d8b8e003" src="https://github.com/user-attachments/assets/b84f6847-39fd-4b04-adb9-ee8a2ff8c374" />
 
 Paso 5.1: Mira tu IP privada para luego entrar desde Windows.
 
