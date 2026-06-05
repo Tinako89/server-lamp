@@ -67,7 +67,7 @@ Cuando termine y vuelva al prompt $ ejecuta el segundo comando, `sudo apt upgrad
 
 Ahora con el comando `sudo apt autoremove -y` busca paquetes que se instalaron como dependencia de otra cosa y ya no los necesita nadie.
 
-<img width="1159" height="603" alt="Captura de pantalla 2026-06-02 225050" src="https://github.com/user-attachments/assets/6cfbb2cd-9fee-44c3-b983-1c06d8b8e003" />
+<img width="1159" height="606" alt="6701817130-6cfbb2cd-9fee-44c3-b983-1c06d8b8e003" src="https://github.com/user-attachments/assets/2fbb1c9a-6152-4228-ac28-a1c7468371a7" />
 
 Un extra opcional que yo suelo hacer después es con el comando `sudo apt autoclean` borra los instaladores descargados que ya no sirven, libera unos megas en el disco virtual.
 
@@ -81,9 +81,9 @@ Comprueba que está corriendo: `systemctl status apache2` Deberías ver una lín
 
 <img width="1283" height="405" alt="Captura de pantalla 2026-06-03 111507" src="https://github.com/user-attachments/assets/cea84184-5662-4595-aa37-af1f59e5cf74" />
 
-Ahora con el comando `curl` prueba desde dentro de la VM: `curl http://localhost` Te va a devolver un montón de HTML que empieza por <!DOCTYPE html> y en medio pone “Apache2 Ubuntu Default Page”. Eso significa que el servidor web ya funciona.
+Con el comando `curl` prueba desde dentro de la VM: `curl http://localhost` Te va a devolver un montón de HTML que empieza por <!DOCTYPE html> y en medio pone “Apache2 Ubuntu Default Page”. Eso significa que el servidor web ya funciona.
 
-<img width="1159" height="606" alt="601817130-6cfbb2cd-9fee-44c3-b983-1c06d8b8e003" src="https://github.com/user-attachments/assets/b84f6847-39fd-4b04-adb9-ee8a2ff8c374" />
+<img width="706" height="630" alt="curl" src="https://github.com/user-attachments/assets/202f199b-765f-4e08-bffa-b91ec958fcfc" />
 
 Paso 5.1: Mira tu IP privada para luego entrar desde Windows.
 
