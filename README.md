@@ -85,9 +85,7 @@ Con el comando `curl` prueba desde dentro de la VM: `curl http://localhost` Te v
 
 <img width="706" height="630" alt="curl" src="https://github.com/user-attachments/assets/202f199b-765f-4e08-bffa-b91ec958fcfc" />
 
-Paso 5.1: Mira tu IP privada para luego entrar desde Windows.
-
-Todavía en la VM: `ip a`
+Paso 5.1: Mira tu IP privada para luego entrar desde Windows `ip a`
 
 <img width="911" height="308" alt="Captura de pantalla 2026-06-03 112757" src="https://github.com/user-attachments/assets/0a297a9b-be28-4c4b-ad94-9a9d911b529f" />
 
